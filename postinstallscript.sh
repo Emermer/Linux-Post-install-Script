@@ -7,7 +7,7 @@ sudo pacman -Syu
 sudo pacman -S i3-gaps
 
 # Install Apps
-sudo pacman -S terminator krusader brave-browser steam lutris rofi discord virtualbox awesome-terminal-fonts compton picom flameshot nitrogen lxappearance arandr pamac pamac-gtk galculator gnome-disk-utility gimp gparted htop libreoffice-fresh dolphin-emu gufw gcolor2 lightdm-gtk-greeter lightdm-gtk-greeter-settings mpv obs-studio piper viewnior vlc wine winetricks neofetch cmatrix etcher timeshift-gtk nano networkmanager 
+sudo pacman -S terminator krusader brave-browser steam lutris rofi discord virtualbox awesome-terminal-fonts compton picom flameshot nitrogen lxappearance arandr pamac pamac-gtk galculator gnome-di>
 # Uninstall Apps
 sudo pacman -Rs firefox
 
@@ -48,4 +48,4 @@ cd .config
 git clone https://github.com/Emermer/i3
 cd
 
-echo Restart your computer by typing: reboot
+echo Reboot
